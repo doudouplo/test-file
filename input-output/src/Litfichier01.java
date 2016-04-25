@@ -11,6 +11,7 @@ public class Litfichier01 {
 //		System.out.println(fichier.list());
 		
 	//	FileReader 
+	//un autre truc vide
 		
 	}
 
